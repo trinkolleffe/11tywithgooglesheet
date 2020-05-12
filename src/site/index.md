@@ -15,33 +15,32 @@ layout: default
 
 <div class="listing">
 {%- for item in sheet.content -%}
-  <h4>{{ item.header2}} {{ item.body2 }}  </h4>
+  <h4>{{ item.header2}} {{ item.body }}  </h4>
 {%- endfor -%}
 </div>
 
 
 
 
-## About this app!!
+## Mars sei un figo
 
 
 <div class="listing">
 {%- for item in sheet.content -%}
-  <h4>{{ item.body10 }} {{ item.body14 }}  </h4>
+  <h4>{{ item.body2 }} {{ item.body3 }}  </h4>
 {%- endfor -%}
 </div>
 <ul class="listing">
 {%- for item in sheet.content -%}
-  <li> {{ item.body3 }}  </li>
-  <li>{{ item.body4}}  </li>
-  <li> {{ item.body5 }}  </li>
-  <li>{{ item.body6 }}  </li>
+  <li> {{ item.body4 }}  </li>
+  <li>{{ item.body5}}  </li>
+  <li> {{ item.body6 }}  </li>
 {%- endfor -%}
 </ul>
 
-## Clone here!!
+## Clonami,se vuoi :)
 
-[![Hosted repo](https://img.icons8.com/color/48/000000/github-2.png)](https://github.com/atanda1)
+[![Hosted repo](https://avatars3.githubusercontent.com/u/22106995?s=460&v=4)](https://github.com/trinkolleffe/)
 
 
 
