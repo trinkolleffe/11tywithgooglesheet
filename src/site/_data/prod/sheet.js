@@ -30,7 +30,7 @@ module.exports = () => {
             "body4": item.gsx$body4.$t,
             "body5": item.gsx$body5.$t,
             "body6":  item.gsx$body6.$t,
-            "img":  item.gsx$img.$t,
+            "immagine":  item.gsx$immagine.$t,
           })
         });
 
