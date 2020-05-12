@@ -21,9 +21,7 @@ layout: default
 
 
 
-
 ## Mars sei un figo
-
 
 <div class="listing">
 {%- for item in sheet.content -%}
