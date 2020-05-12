@@ -37,10 +37,13 @@ layout: default
   <li>{{ item.body4 }}</li>
   <li>{{ item.body5 }}</li>
   <li>{{ item.body6 }}</li>
+  <li>{{ item.immagine }}</li>
 {%- endfor -%}
 </ul>
 
 ## Clonami, se vuoi
+
+
 
 <a href="https://github.com/trinkolleffe/"><img src="{{ item.immagine | dump | safe }}" style="width: 200px"/></a>
 
