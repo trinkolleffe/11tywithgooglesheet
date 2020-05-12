@@ -34,8 +34,7 @@ layout: default
 <ul class="listing">
 {%- for item in sheet.content -%}
   <li>{{ item.body3 }}</li>
-  <li>{{ item.body4 }}</li>
-  <li>{{ item.body5 }}</li>
+  <li>{{ item.body4 }}{{ item.body5 }}</li>
   <li>{{ item.body6 }}</li>
 {%- endfor -%}
 </ul>
