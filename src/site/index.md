@@ -28,6 +28,11 @@ layout: default
   <h4>{{ item.body2 }} {{ item.body3 }}</h4>
 {%- endfor -%}
 </div>
+
+##  partendo da quì: 
+
+<a href="https://docs.google.com/spreadsheets/d/1-rdzDOXdzMi9whPxKAKZxo-vaytH8tMtbL1f1zhrNEk/edit#gid=0">https://docs.google.com/spreadsheets/d/1-rdzDOXdzMi9whPxKAKZxo-vaytH8tMtbL1f1zhrNEk/edit#gid=0</a>
+
 <ul class="listing">
 {%- for item in sheet.content -%}
   <li>{{ item.body4 }}</li>
