@@ -43,9 +43,7 @@ layout: default
 
 ## Clonami, se vuoi
 
-
-
-<a href="https://github.com/trinkolleffe/"><img src="{{ item.immagine | dump | safe }}" style="width: 200px"/></a>
+<a href="https://github.com/trinkolleffe/"><img src="{{ item.img | url }}" style="width: 200px"/></a>
 
 
 
