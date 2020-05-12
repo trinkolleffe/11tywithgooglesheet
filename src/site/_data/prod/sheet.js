@@ -30,18 +30,6 @@ module.exports = () => {
             "body4": item.gsx$body4.$t,
             "body5": item.gsx$body5.$t,
             "body6":  item.gsx$body6.$t,
-            "body7": item.gsx$body7.$t,
-            "body8": item.gsx$body8.$t,
-            "body9":  item.gsx$body9.$t,
-            "body10": item.gsx$body10.$t,
-            "body11": item.gsx$body11.$t,
-            "body12":  item.gsx$body12.$t,
-            "body13": item.gsx$body13.$t,
-            "body14": item.gsx$body14.$t,
-            "body15":  item.gsx$body15.$t,
-            "body16": item.gsx$body16.$t,
-            "body17": item.gsx$body17.$t,
-            
           })
         });
 
