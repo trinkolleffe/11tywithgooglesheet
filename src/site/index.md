@@ -34,14 +34,19 @@ layout: default
 <ul class="listing">
 {%- for item in sheet.content -%}
   <li>{{ item.body3 }}</li>
-  <li>{{ item.body4 }}{{ item.body5 }}</li>
+  <li>{{ item.body4 }}</li>
+  <li>{{ item.body5 }}</li>
   <li>{{ item.body6 }}</li>
 {%- endfor -%}
 </ul>
 
-## Clonami,se vuoi
+## Clonami, se vuoi
 
-[![Hosted repo](https://avatars3.githubusercontent.com/u/22106995?s=460&v=4)](https://github.com/trinkolleffe/)
+<a href="https://github.com/trinkolleffe/"><img src="{{ item.img }}" style="width: 200px"/></a>
 
+
+
+<!-- [![Hosted repo](https://avatars3.githubusercontent.com/u/22106995?s=460&v=4)](https://github.com/trinkolleffe/)
+ -->
 
 
