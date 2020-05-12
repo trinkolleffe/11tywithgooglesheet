@@ -43,7 +43,7 @@ layout: default
 
 ## Clonami, se vuoi
 
-<a href="https://github.com/trinkolleffe/"><img style="width: 200px">{{ item.immagine }}</img></a>
+<a href="https://github.com/trinkolleffe/"><img {{ item.immagine }} style="width: 200px" /></a>
 
 
 
