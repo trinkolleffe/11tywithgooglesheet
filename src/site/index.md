@@ -38,7 +38,7 @@ layout: default
 {%- endfor -%}
 </ul>
 
-## Clonami,se vuoi :)
+## Clonami,se vuoi
 
 [![Hosted repo](https://avatars3.githubusercontent.com/u/22106995?s=460&v=4)](https://github.com/trinkolleffe/)
 
