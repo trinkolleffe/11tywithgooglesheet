@@ -43,11 +43,11 @@ layout: default
 
 ## Clonami, se vuoi
 
-<a href="https://github.com/trinkolleffe/"><img src="{{ item.immagine | url }}" style="width: 200px"/></a>
+<a href="https://github.com/trinkolleffe/"><img src="{{ item.immagine }}" style="width: 200px"/></a>
 
 
 
-[![Hosted repo](https://avatars3.githubusercontent.com/u/22106995?s=460&v=4)](https://github.com/trinkolleffe/)
+[![Hosted repo](item.immagine)](https://github.com/trinkolleffe/)
 
 
 
