@@ -32,10 +32,16 @@ body {
   width: 200px;
 }
 .external span {
+  display: block;
   width: 100%;
+  margin-top: 60px;
+}
+.external p {
+  margin-top: 5px;
 }
 .external img {
   width: 100%;
+  max-width: 100px;
 }
 a {
   color: #efefef;
