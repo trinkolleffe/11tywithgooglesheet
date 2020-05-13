@@ -41,10 +41,12 @@ layout: default
 {%- endfor -%}
 </ul>
 
+<div id="external">
+
 ## Clonami, se vuoi
 
-<div id="external">
 [![Hosted repo](https://avatars3.githubusercontent.com/u/22106995?s=460&v=4)](https://github.com/trinkolleffe/)
+
 </div>
 
 
