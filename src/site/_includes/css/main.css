@@ -28,6 +28,13 @@ body {
   width: 90%;
   text-align: left;
 }
+.external {
+  width: 200px;
+}
+.external img {
+  width: 100%;
+}
+
 @media (min-width: 740px) {
   .container {
     width: 600px;

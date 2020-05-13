@@ -43,11 +43,9 @@ layout: default
 
 ## Clonami, se vuoi
 
-<a href="https://github.com/trinkolleffe/"><img src="{{ item.immagine }}" /></a>
-
-
-
+<div id="external">
 [![Hosted repo](https://avatars3.githubusercontent.com/u/22106995?s=460&v=4)](https://github.com/trinkolleffe/)
+</div>
 
 
 
