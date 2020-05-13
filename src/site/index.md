@@ -41,6 +41,15 @@ layout: default
 {%- endfor -%}
 </ul>
 
+<form name="contact" netlify>
+  <p>
+    <label>Upload <input type="file" name="upload" /></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
+
 <div class="external">
 <span>Clonami</span>
 
