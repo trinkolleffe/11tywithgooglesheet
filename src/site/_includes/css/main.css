@@ -37,6 +37,9 @@ body {
 .external img {
   width: 100%;
 }
+a {
+  color: #efefef;
+}
 
 @media (min-width: 740px) {
   .container {
