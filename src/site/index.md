@@ -41,7 +41,7 @@ layout: default
 {%- endfor -%}
 </ul>
 
-<div id="external">
+<div class="external">
 
 ## Clonami, se vuoi
 
