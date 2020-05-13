@@ -31,6 +31,9 @@ body {
 .external {
   width: 200px;
 }
+.external span {
+  width: 100%;
+}
 .external img {
   width: 100%;
 }

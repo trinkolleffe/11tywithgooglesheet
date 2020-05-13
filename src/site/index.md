@@ -42,11 +42,8 @@ layout: default
 </ul>
 
 <div class="external">
-
-## Clonami, se vuoi
-
+<span>Clonami, se vuoi</span>
 [![Hosted repo](https://avatars3.githubusercontent.com/u/22106995?s=460&v=4)](https://github.com/trinkolleffe/)
-
 </div>
 
 
