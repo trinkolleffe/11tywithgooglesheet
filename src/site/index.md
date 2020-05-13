@@ -42,9 +42,9 @@ layout: default
 </ul>
 
 <div class="external">
-<span>Clonami, se vuoi</span>
+<span>Clonami</span>
 
-[![Hosted repo](https://avatars3.githubusercontent.com/u/22106995?s=460&v=4)](https://github.com/trinkolleffe/)
+[![Hosted repo](https://avatars3.githubusercontent.com/u/22106995?s=460&v=4)](https://github.com/trinkolleffe/11tywithgooglesheet)
 
 </div>
 
